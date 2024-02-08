@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LandBouwKasMonitor2 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LandBouwKasMonitor2 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
